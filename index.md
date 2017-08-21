@@ -1,7 +1,3 @@
----
-title: Fruit ARMy
----
-
 ## Welcome private, to the Fruit ARMy
 
 This is a collection of Dockerfiles I have created so that I could use tools on my [Raspberry Pi](https://raspberrypi.org) [Docker Swarm](https://docs.docker.com/engine/swarm/)
